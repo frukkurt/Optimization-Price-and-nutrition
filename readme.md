@@ -2,8 +2,10 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
-How to buy healthy food at a convenience store with low cost and high nutritional benefits.
+# How to buy healthy food at a convenience store with low cost and high nutritional benefits.
+optimization problem
+![image](https://user-images.githubusercontent.com/63940535/131987938-2b4fc99f-7714-4370-8abf-d90bb2d296e9.png)
+
 
 
 
