@@ -206,7 +206,7 @@ prob.solve()
 By optimizing using `linprog` and `Pulp`, `linprog` is unable to give an integer. `Pulp` provides an integer. We can compare the results with `Excel` using *add-in* solver to compare. Find out if there are matching results or not.
 In terms `Excel` and `linprog` result ,there is no similarity because `linprog` cannot use equal symbols. `Pulp` results exactly as excel.
 
-#
+
 `Excel` and `linprog`
 <p align="center">
    <img height="375" width="475" alt="Screen Shot 2564-09-04 at 12 07 22" src="https://user-images.githubusercontent.com/63940535/132083220-ac5df833-ba90-405c-a91a-6c8d848362ac.png">
@@ -219,7 +219,7 @@ In terms `Excel` and `linprog` result ,there is no similarity because `linprog` 
    <img height="375" width="475" alt="Screen Shot 2564-09-04 at 12 15 08" src="https://user-images.githubusercontent.com/63940535/132083389-380ad15e-8a44-47e5-82cf-8c6f5c38b7eb.png">
 </p>
 
-#
+
 
 
 
