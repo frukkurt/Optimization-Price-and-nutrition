@@ -45,7 +45,7 @@ The data will include:
 We've collected more than **60** item. All products come from a web-based product or social media review as referred above. We will upload files on the `GitHub` so that it can be edited and used at any time.
 
 ### B.	Input
-   - 1. We will use optimization tools to make python Computer-languages using Google collaborator. We will pull data from “GitHub” by **url** first.
+   - 1. We will use optimization tools to make python Computer-languages using Google collaborator. We will pull data from `GitHub` by ***url*** first.
 
 ```
 import pandas as pd 
