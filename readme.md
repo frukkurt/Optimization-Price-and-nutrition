@@ -237,6 +237,7 @@ In terms `Excel` and `linprog` result ,there is no similarity because `linprog` 
 [3] FATNEVER.com, online calculator tools for BMR and TDEE, [Online] Available: [FATNEVER.com](https://www.fatnever.com/bmr/)
 
 [4]CookingLight.com, Cooking Light is part of the All recipes Food Group.[Online] Available: [CookingLight.com](https://www.cookinglight.com/eating-smart/macro-diet-counting-macros-weight-loss-better-nutrition)
-[5] GitHub food repository, GitHub for this project [Online]Available:
+
+[5]GitHub food repository, GitHub for this project [Online]Available:
 [MyGIT](https://github.com/frukkurt/food)
 
