@@ -230,13 +230,13 @@ In terms `Excel` and `linprog` result ,there is no similarity because `linprog` 
 
 
 ## VI.References
-[1] Sci.Py.org, open-source software for mathematics, science, and engineering [Online] Available: https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.optimize.linprog.html#r120
+[1] Sci.Py.org, open-source software for mathematics, science, and engineering [Online] Available: [Sci.Py.org](https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.optimize.linprog.html#r120)
 
-[2] pypi.org, Pulp is an LP modeler written in python. Pulp can generate MPS or LP files and call GLPK, COIN CLP/CBC, CPLEX, and GUROBI to solve linear problems.[online]Available: https://pypi.org/project/PuLP/
+[2] pypi.org, Pulp is an LP modeler written in python. Pulp can generate MPS or LP files and call GLPK, COIN CLP/CBC, CPLEX, and GUROBI to solve linear problems.[Online] Available: [pypi.org](https://pypi.org/project/PuLP/)
 
-[3] FATNEVER.com, online calculator tools for BMR and TDEE, [Online]Available: https://www.fatnever.com/bmr/
+[3] FATNEVER.com, online calculator tools for BMR and TDEE, [Online] Available: [FATNEVER.com](https://www.fatnever.com/bmr/)
 
-[4]CookingLight.com, Cooking Light is part of the All recipes Food Group.[online] Available: https://www.cookinglight.com/eating-smart/macro-diet-counting-macros-weight-loss-better-nutrition
+[4]CookingLight.com, Cooking Light is part of the All recipes Food Group.[Online] Available: [CookingLight.com](https://www.cookinglight.com/eating-smart/macro-diet-counting-macros-weight-loss-better-nutrition)
 [5] GitHub food repository, GitHub for this project [Online]Available:
-https://github.com/frukkurt/food
+[MyGIT](https://github.com/frukkurt/food)
 
