@@ -1,7 +1,3 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
-
 # OPTIMIZATION PROBLEM
 ### How to buy healthy food at a convenience store with low cost and high nutritional benefits.
 
@@ -9,6 +5,9 @@ Copy the template, paste it to your GitHub README and edit! -->
   <img width="600" height="450" src="https://user-images.githubusercontent.com/63940535/131987938-2b4fc99f-7714-4370-8abf-d90bb2d296e9.png">
 </p>
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frukkurt/Optimization-Price-and-nutrition/blob/master/Nutrition_lowcost_OP.ipynb)
+  
 
 
 
