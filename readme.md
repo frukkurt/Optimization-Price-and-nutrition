@@ -1,4 +1,4 @@
-# OPTIMIZATION PROBLEM
+# Optimization Price and nutrition
 ### How to buy healthy food at a convenience store with low cost and high nutritional benefits.
 
 <p align="center">
