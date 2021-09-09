@@ -16,7 +16,7 @@
 
 Now, people are more interested in health care. Whether eating or exercising But with work or time, it is difficult to prepare food. Causing to have to find food in a convenience store In which convenience stores have more healthy food, but how do we know which food is the cheapest and most suitable for us.
    
-In the optimization subject, we choose which products are suited for the needs of the user and the lowest price using Linear programing to find answers and use Python Computer-language to resolve this issue.
+In the optimization class, we choose which products are suited for the needs of the user and the lowest price using Linear programing to find answers and use Python Computer-language to resolve this issue.
 
 
 
